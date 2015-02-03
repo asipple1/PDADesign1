@@ -1,0 +1,688 @@
+#ScrollDiv
+{
+       overflow:scroll;
+       width:990px;
+       height:480px;
+       }
+
+@media print
+{
+#ScrollDiv
+{
+       overflow:visible;
+}
+}
+
+// table {font-size .8em;}
+
+.TopLeftWhtBord
+{
+       border-top: #FFFFFF thin solid;
+      border-left: #FFFFFF thin solid;}
+
+.SmBord
+{
+    border: #10569c thin solid;
+}
+
+.TopBorder
+{
+    border-top: #10569c thin solid;
+}
+
+.BottomBorder
+{
+    border-bottom: #10569c thin solid;
+}
+
+.LeftBorder
+{
+    border-left: #10569c thin solid;
+}
+
+.RightBorder
+{
+    border-right: #10569c thin solid;
+}
+
+.TopLeftBorder
+{
+    border-top: #10569c thin solid;
+    border-left: #10569c thin solid;
+}
+
+.TopRightBorder
+{
+    border-top: #10569c thin solid;
+    border-right: #10569c thin solid;
+}
+
+.BottomLeftBorder
+{
+    border-bottom: #10569c thin solid;
+    border-left: #10569c thin solid;
+}
+
+.BottomRightBorder
+{
+    border-bottom: #10569c thin solid;
+    border-right: #10569c thin solid;
+}
+
+.RightLeftBorder
+{
+    border-right: #10569c thin solid;
+    border-left: #10569c thin solid;
+}
+
+.TopBottomBorder
+{
+    border-top: #10569c thin solid;
+    border-bottom: #10569c thin solid;
+}
+
+.TopBottomRightBorder
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+}
+
+.TopBottomLeftBorder
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+}
+
+.LeftRightTopBorder
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+}
+
+.LeftRightBottomBorder
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+}
+
+.SmBordLtBlBG
+{
+    border: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.TopBorderLtBlBG
+{
+	border-top: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.BottomBorderLtBlBG
+{
+	border-bottom: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.LeftBorderLtBlBG
+{
+	border-left: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.RightBorderLtBlBG
+{
+	border-right: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.TopLeftBorderLtBlBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.TopRightBorderLtBlBG
+{
+	border-top: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.BottomLeftBorderLtBlBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.BottomRightBorderLtBlBG
+{
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.RightLeftBorderLtBlBG
+{
+	border-right: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.TopBottomBorderLtBlBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.TopBottomRightBorderLtBlBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.TopBottomLeftBorderLtBlBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.LeftRightTopBorderLtBlBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.LeftRightBottomBorderLtBlBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #BBCCEE;
+}
+
+.SmBordYelBG
+{
+    border: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.TopBorderYelBG
+{
+	border-top: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.BottomBorderYelBG
+{
+	border-bottom: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.LeftBorderYelBG
+{
+	border-left: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.RightBorderYelBG
+{
+	border-right: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.TopLeftBorderYelBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.TopRightBorderYelBG
+{
+	border-top: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.BottomLeftBorderYelBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.BottomRightBorderYelBG
+{
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.RightLeftBorderYelBG
+{
+	border-right: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.TopBottomBorderYelBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.TopBottomRightBorderYelBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.TopBottomLeftBorderYelBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.LeftRightTopBorderYelBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.LeftRightBottomBorderYelBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #FFFF55;
+}
+
+.SmBordLtGrBG
+{
+    border: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.TopBorderLtGrBG
+{
+	border-top: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.BottomBorderLtGrBG
+{
+	border-bottom: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.LeftBorderLtGrBG
+{
+	border-left: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.RightBorderLtGrBG
+{
+	border-right: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.TopLeftBorderLtGrBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.TopRightBorderLtGrBG
+{
+	border-top: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.BottomLeftBorderLtGrBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.BottomRightBorderLtGrBG
+{
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.RightLeftBorderLtGrBG
+{
+	border-right: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.TopBottomBorderLtGrBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.TopBottomRightBorderLtGrBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.TopBottomLeftBorderLtGrBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.LeftRightTopBorderLtGrBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.LeftRightBottomBorderLtGrBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #90EE90;
+}
+
+.SmBordOrBG
+{
+    border: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.TopBorderOrBG
+{
+	border-top: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.BottomBorderOrBG
+{
+	border-bottom: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.LeftBorderOrBG
+{
+	border-left: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.RightBorderOrBG
+{
+	border-right: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.TopLeftBorderOrBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.TopRightBorderOrBG
+{
+	border-top: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.BottomLeftBorderOrBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.BottomRightBorderOrBG
+{
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.RightLeftBorderOrBG
+{
+	border-right: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.TopBottomBorderOrBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.TopBottomRightBorderOrBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.TopBottomLeftBorderOrBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.LeftRightTopBorderOrBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.LeftRightBottomBorderOrBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #F4A460;
+}
+
+.SmBordCyBG
+{
+    border: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.TopBorderCyBG
+{
+	border-top: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.BottomBorderCyBG
+{
+	border-bottom: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.LeftBorderCyBG
+{
+	border-left: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.RightBorderCyBG
+{
+	border-right: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.TopLeftBorderCyBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.TopRightBorderCyBG
+{
+	border-top: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.BottomLeftBorderCyBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.BottomRightBorderCyBG
+{
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.RightLeftBorderCyBG
+{
+	border-right: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.TopBottomBorderCyBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.TopBottomRightBorderCyBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.TopBottomLeftBorderCyBG
+{
+	border-top: #10569c thin solid;
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.LeftRightTopBorderCyBG
+{
+	border-top: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.LeftRightBottomBorderCyBG
+{
+	border-bottom: #10569c thin solid;
+	border-left: #10569c thin solid;
+	border-right: #10569c thin solid;
+	background-color: #00FFFF;
+}
+
+.RedText
+{
+       color: #FF0000;
+}
+
+.DropDownFont
+{
+       font-family:"Courier New",Times,serif;
+        font-size: 10;       
+}
+
+.TDFont
+{
+       font-size:"3pt";
+}
+
+#text{
+
+       OUTLINE: none;
+
+       FONT-SIZE: 10pt;
+
+       BACKGROUND-COLOR: #FFFFFF;
+
+}
+
+#terr{
+
+       OUTLINE: none;
+
+       FONT-SIZE: 10pt;
+
+       BORDER-COLOR: #556B80;
+
+       BACKGROUND-COLOR: #FF0000;
+}
+
+TH {
+
+	BACKGROUND-COLOR: #FFFFCC;
+
+	padding-left : 3;
+
+	padding-right : 3;
+
+       text-align: right;
+}
+
+TD {
+
+	padding-left : 3;
+
+}
+
+th {
+    
+}
