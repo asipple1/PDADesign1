@@ -50,7 +50,7 @@
     <div class="form-group">
     <label placeholder="Signed in as" value=" "></label>
    <input class="form-control" step="0.01" placeholder="Enter PSN" type="number" name="psn" 
-         id="text" onFocus="this.select();">
+         id="text" onFocus="function() {Ti.App.fireEvent('add_done')">
   </div>
 <p>
 <Input class="btn btn-primary btn-block" TYPE="submit" name="rounds" VALUE="Rounds"/> </td>
