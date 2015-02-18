@@ -4,7 +4,7 @@
 <Head><Title>Lancaster County Corrections Mobile</Title>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <link rel="stylesheet" href="/~czm/PROTO.CSS" type="text/css" />
-<link href="css/bootstrap.min.css" rel="stylesheet" />
+<link href="/~czm/bootstrap.css" rel="stylesheet">
 <script LANGUAGE="JavaScript" SRC="/~czm/mfnav2.js">    </SCRIPT>
 <SCRIPT language="JavaScript" src="/~czm/dt_pick2.js"> </SCRIPT>
 <SCRIPT language="JavaScript" type="text/javascript" src="http://cjis.lincoln.ne.gov/~czt/attrib/ur_code.js">  </SCRIPT>

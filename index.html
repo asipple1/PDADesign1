@@ -2,8 +2,9 @@
 <html>
 <Head><Title>Lancaster County Corrections Mobile</Title>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<link href="css/styles.css" rel="stylesheet">
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="/~czm/PROTO.CSS" type="text/css" />
+<link rel="stylesheet" href="css/styles.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <script LANGUAGE="JavaScript" SRC="/~czm/mfnav2.js">
     
 </SCRIPT>
@@ -19,10 +20,17 @@
 </SCRIPT>
 <script type="text/javascript" src="https://intralinc.lincoln.ne.gov/classes/jquery-1.4.2.min.js"> </script>
 <script type="text/javascript" src="https://intralinc.lincoln.ne.gov/classes/fancybox/jquery.fancybox-1.3.1.js"> </script>
+    
+<style>
+    body{
+        color:#000000;
+        background-color:#CCFF88; 
+    }
+</style>
 </head>
 <font color="red"> <b>                                                                 </b> </font>
 <p>
-<body style="COLOR:#000000; " bgcolor="#CCFF88">
+<body bgcolor="#CCFF88">
 <div class="container">
     <div class="row">
     <div class="col-xs-12">
@@ -48,8 +56,8 @@
 <Input type=hidden name="dest" VALUE=" "/>
     
     <div class="form-group">
-   <input class="form-control" autocomplete="off"  placeholder="Enter PSN" type="number" name="psn" 
-         id="text" onFocus="this.select();" value=" "/>
+   <p>Enter PSN <input class="form-control" type="number" name="psn" 
+                       id="text" onFocus="this.select();" value=" "/></p>
   </div>
 <p>
 <Input class="btn btn-primary btn-block" TYPE="submit" name="rounds" VALUE="Rounds"/> </td>
